@@ -1,0 +1,49 @@
+[
+    {
+        "1001": {
+            "code": 500,
+            "message": "somwthing went wrong"
+        },
+        "1002":{
+            "code": 400,
+            "message": "input validation failed"
+        },
+        "1050": {
+            "code": 401,
+            "message": "invalid credentials"
+        },
+        "1051": {
+            "code": 400,
+            "message": "email id already exists"
+        },
+        "1052":{
+            "code":406,
+            "message":"email id not verified"
+        },
+        "1053":{
+            "code":401,
+            "message":"Invalid OTP"
+        },
+        "1054":{
+            "code":401,
+            "message":"OTP expired"
+        },
+        "1055":{
+            "code":401,
+            "message":"invalid token"
+        },
+        "1056":{
+            "code":400,
+            "message":"Invalid Product"
+        },
+        "1057":{
+            "code":403,
+            "message":"Registration is not allowed from the country/reqion"
+        },
+        "1058":{
+           "code":400,
+            "message":"otp already verified" 
+        }
+       
+    }
+]
